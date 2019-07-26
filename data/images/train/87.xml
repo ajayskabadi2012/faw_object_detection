@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fawdataset</folder>
+	<filename>87.jpg</filename>
+	<path>H:\github\fawdataset\87.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fallarmy_worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>145</ymin>
+			<xmax>163</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
